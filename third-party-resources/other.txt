@@ -1,0 +1,4 @@
+https://dlabs.ai/blog/how-do-you-estimate-the-time-and-cost-of-a-machine-learning-project/
+https://www.altexsoft.com/blog/business/how-to-estimate-roi-and-costs-for-machine-learning-and-data-science-projects/
+https://users.cs.duke.edu/~cynthia/docs/TulabandhulaRu13.pdf
+https://www.phdata.io/blog/what-is-the-cost-to-deploy-and-maintain-a-machine-learning-model/

@@ -4,3 +4,4 @@ scikit-learn==1.0.1
 seaborn==0.11.2
 kaggle==1.5.12
 numpy-financial==1.0.0
+etc-jupyterlab-nbgrader-validate==1.1.0

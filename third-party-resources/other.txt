@@ -1,4 +1,19 @@
-https://dlabs.ai/blog/how-do-you-estimate-the-time-and-cost-of-a-machine-learning-project/
-https://www.altexsoft.com/blog/business/how-to-estimate-roi-and-costs-for-machine-learning-and-data-science-projects/
-https://users.cs.duke.edu/~cynthia/docs/TulabandhulaRu13.pdf
-https://www.phdata.io/blog/what-is-the-cost-to-deploy-and-maintain-a-machine-learning-model/
+
+Query:
+  roi estimation machine learning model
+
+Results:
+- https://dlabs.ai/blog/how-do-you-estimate-the-time-and-cost-of-a-machine-learning-project/
+- https://www.altexsoft.com/blog/business/how-to-estimate-roi-and-costs-for-machine-learning-and-data-science-projects/
+- https://users.cs.duke.edu/~cynthia/docs/TulabandhulaRu13.pdf
+- https://www.phdata.io/blog/what-is-the-cost-to-deploy-and-maintain-a-machine-learning-model/
+- https://medium.com/@marcossponton/machine-learning-roi-how-to-model-the-investment-value-of-machine-learning-a29be1f2f827
+- https://www.dataiku.com/stories/roi/
+- https://medium.com/@torkian_80534/how-to-estimate-roi-and-costs-for-machine-learning-d2e357ceee93
+- https://emerj.com/ai-executive-guides/roi-machine-learning/
+- https://www.youtube.com/watch?v=FW5i3ictJec&ab_channel=AltexSoft
+- https://towardsdatascience.com/return-on-investment-for-machine-learning-1a0c431509e
+- https://www.mytotalretail.com/article/how-to-measure-the-roi-of-machine-learning-and-artificial-intelligence/
+- https://www.analyticsinsight.net/calculating-roi-behind-data-science-projects-machine-learning-algorithms/
+- https://nexocode.com/blog/posts/the-roi-of-ai/
+- https://www.pwc.com/us/en/tech-effect/ai-analytics/artificial-intelligence-roi.html
